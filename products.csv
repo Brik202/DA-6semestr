@@ -1,0 +1,21 @@
+id,description,brand,category,price,rating,orders,stock
+1,Apple iPhone 15 128GB black smartphone,Apple,smartphone,799,4.8,154,32
+2,Samsung Galaxy A55 256GB blue Android phone,Samsung,smartphone,420,4.5,130,41
+3,Nike Air Max 90 men's sneakers white,Nike,shoes,135,4.6,89,70
+4,Adidas Ultraboost running shoes for women,Adidas,shoes,180,4.7,77,55
+5,Sony WH-1000XM5 wireless headphones,Sony,audio,349,4.9,96,23
+6,LG 27 inch gaming monitor 144Hz,LG,monitor,260,4.4,64,18
+7,Dell Inspiron 15 Intel i5 laptop,Dell,laptop,690,4.3,58,12
+8,Lenovo IdeaPad Slim 3 Ryzen 5 notebook,Lenovo,laptop,540,4.2,61,20
+9,Xiaomi Redmi Note 13 Pro smartphone,Xiaomi,smartphone,310,4.5,143,47
+10,Puma Axis casual sneakers black,Puma,shoes,75,4.1,111,92
+11,Canon EOS R50 mirrorless camera kit,Canon,camera,680,4.6,35,9
+12,HP LaserJet M110w compact printer,HP,printer,129,4.2,44,31
+13,Logitech MX Master 3S wireless mouse,Logitech,accessories,99,4.8,118,66
+14,Razer BlackWidow V4 gaming keyboard,Razer,accessories,169,4.5,83,28
+15,Bosch Serie 4 washing machine 8kg,Bosch,home appliance,520,4.3,27,7
+16,Philips Airfryer XL kitchen appliance,Philips,kitchen,160,4.6,74,34
+17,IKEA Markus office chair black,IKEA,furniture,229,4.4,52,16
+18,Dyson V11 cordless vacuum cleaner,Dyson,home appliance,599,4.7,39,10
+19,GoPro Hero 12 action camera waterproof,GoPro,camera,399,4.6,48,19
+20,JBL Charge 5 bluetooth speaker,JBL,audio,149,4.5,102,37
