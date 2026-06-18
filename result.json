@@ -1,0 +1,214 @@
+{
+ "items": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 799,
+      "currency": "USD"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "category": "phone",
+      "price": 420,
+      "currency": "USD"
+    },
+    {
+      "id": 3,
+      "brand": "Nike",
+      "category": "sneakers",
+      "price": 135,
+      "currency": "USD"
+    },
+    {
+      "id": 4,
+      "brand": "Adidas",
+      "category": "shoes",
+      "price": 180,
+      "currency": "USD"
+    },
+    {
+      "id": 5,
+      "brand": "Sony",
+      "category": "headphones",
+      "price": 349,
+      "currency": "USD"
+    },
+    {
+      "id": 6,
+      "brand": "LG",
+      "category": "monitor",
+      "price": 260,
+      "currency": "USD"
+    },
+    {
+      "id": 7,
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 690,
+      "currency": "USD"
+    },
+    {
+      "id": 8,
+      "brand": "Lenovo",
+      "category": "notebook",
+      "price": 540,
+      "currency": "USD"
+    },
+    {
+      "id": 9,
+      "brand": "Xiaomi",
+      "category": "smartphone",
+      "price": 310,
+      "currency": "USD"
+    },
+    {
+      "id": 10,
+      "brand": "Puma",
+      "category": "sneakers",
+      "price": 75,
+      "currency": "USD"
+    },
+    {
+      "id": 11,
+      "brand": "Canon",
+      "category": "camera",
+      "price": 680,
+      "currency": "USD"
+    },
+    {
+      "id": 12,
+      "brand": "HP",
+      "category": "printer",
+      "price": 129,
+      "currency": "USD"
+    },
+    {
+      "id": 13,
+      "brand": "Logitech",
+      "category": "mouse",
+      "price": 99,
+      "currency": "USD"
+    },
+    {
+      "id": 14,
+      "brand": "Razer",
+      "category": "keyboard",
+      "price": 169,
+      "currency": "USD"
+    },
+    {
+      "id": 15,
+      "brand": "Bosch",
+      "category": "washing machine",
+      "price": 520,
+      "currency": "USD"
+    },
+    {
+      "id": 16,
+      "brand": "Philips",
+      "category": "kitchen appliance",
+      "price": 160,
+      "currency": "USD"
+    },
+    {
+      "id": 17,
+      "brand": "IKEA",
+      "category": "office chair",
+      "price": 229,
+      "currency": "USD"
+    },
+    {
+      "id": 18,
+      "brand": "Dyson",
+      "category": "vacuum cleaner",
+      "price": 599,
+      "currency": "USD"
+    },
+    {
+      "id": 19,
+      "brand": "GoPro",
+      "category": "camera",
+      "price": 399,
+      "currency": "USD"
+    },
+    {
+      "id": 20,
+      "brand": "JBL",
+      "category": "speaker",
+      "price": 149,
+      "currency": "USD"
+    },
+    {
+      "id": 21,
+      "brand": "Apple",
+      "category": "laptop",
+      "price": 999,
+      "currency": "USD"
+    },
+    {
+      "id": 22,
+      "brand": "Samsung",
+      "category": "TV",
+      "price": 480,
+      "currency": "USD"
+    },
+    {
+      "id": 23,
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1190,
+      "currency": "USD"
+    },
+    {
+      "id": 24,
+      "brand": "Under Armour",
+      "category": "hoodie",
+      "price": 65,
+      "currency": "USD"
+    },
+    {
+      "id": 25,
+      "brand": "Zara",
+      "category": "jacket",
+      "price": 59,
+      "currency": "USD"
+    },
+    {
+      "id": 26,
+      "brand": "H&M",
+      "category": "t-shirt",
+      "price": 12,
+      "currency": "USD"
+    },
+    {
+      "id": 27,
+      "brand": "Nintendo",
+      "category": "console",
+      "price": 349,
+      "currency": "USD"
+    },
+    {
+      "id": 28,
+      "brand": "PlayStation",
+      "category": "console",
+      "price": 449,
+      "currency": "USD"
+    },
+    {
+      "id": 29,
+      "brand": "Microsoft",
+      "category": "console",
+      "price": 499,
+      "currency": "USD"
+    },
+    {
+      "id": 30,
+      "brand": "Bose",
+      "category": "earbuds",
+      "price": 299,
+      "currency": "USD"
+    }
+  ]
+}
